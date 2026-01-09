@@ -20,7 +20,7 @@ function App() {
           letterSpacing: "1.2px"
         }}
       >
-        good morning hai
+        good morning hello
       </h1>
     </div>
   );
